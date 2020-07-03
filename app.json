@@ -1,0 +1,22 @@
+{
+  "name": "Tarefas",
+  "icon": "src/assets/icon.png", 
+  "displayName": "Tarefas",
+  "expo": {
+    "name": "Tarefas",
+    "icon": "src/assets/icon.png",
+    "version": "1.0.0",
+    "slug": "app-tarefas-trello",
+    "ios": {
+      "bundleIdentifier": "com.br.tarefas",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.br.tarefas",
+      "versionCode": 1
+    }
+   }
+}
+  
+
+ 
